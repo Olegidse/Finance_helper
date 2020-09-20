@@ -1,0 +1,20 @@
+Dima 200 Sasha
+Dima 200 Oleg
+Dima 150 Oleg Sonya Lisa Dima
+Oleg 700 Sonya
+Lisa 200 Sonya
+Sonya 500 Dima Lisa
+Valera 2340 Katya Sasha Dima Lisa Valera
+Valera 231 Sasha
+Valera 131 Oleg
+Valera 543 Katya
+Valera 235 Sonya
+Sasha 234 Oleg
+Sasha 7665 Katya 
+Sasha 764 Sasha
+Sasha 125 Sonya
+Sasha 700 Sasha Lisa
+Oleg 800 Dima Valera
+Katya 2600 Valera Lisa Dima Katya
+Katya 1223 Oleg
+Katya 234 Sasha
