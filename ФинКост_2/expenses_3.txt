@@ -1,0 +1,7 @@
+Oleg
+Artem
+Mike
+Bob
+Expenses:
+Oleg 800 Oleg Artem Mike Bob
+Artem 800 Oleg Artem Mike Bob

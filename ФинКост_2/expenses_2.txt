@@ -1,0 +1,16 @@
+
+Lisa 400 Oleg Sonya
+Misha 300 Dima
+Oleg 1000 Oleg Sonya Dima Lisa
+
+Dima 800 Lisa
+
+Oleg 350 Sonya Oleg
+
+Sonya 500 Dima
+
+
+
+
+
+Oleg 250 Dima Misha
